@@ -48,6 +48,48 @@ python-mini-projects/
 └── README.md
 ```
 
+### 3. 💧 Water Drinking Reminder
+
+A simple Python application that sends desktop notifications at regular intervals to remind users to drink water.
+
+**Concepts Used:**
+
+* Python loops
+* `time` module
+* `plyer` library
+* Desktop notifications
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone <your-repository-url>
+```
+
+Install required dependencies when needed:
+
+```bash
+pip install plyer
+```
+
+Run a project:
+
+```bash
+python <filename.py>
+```
+
+## 🛠️ Technologies Used
+
+* Python
+* Python Standard Library
+* External Python Libraries
+
+## 🎯 Purpose
+
+This repository is created to practice Python by building small and useful projects while improving programming and problem-solving skills.
+
+
 ## Author
 
 **Abhinandan**
