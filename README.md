@@ -89,6 +89,32 @@ python <filename.py>
 
 This repository is created to practice Python by building small and useful projects while improving programming and problem-solving skills.
 
+---
+
+### 4. 🧮 Simple Calculator
+
+A command-line calculator that performs basic arithmetic operations based on user input.
+
+**Features:**
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Invalid input handling
+
+**Concepts Used:**
+
+* User input
+* `match-case` statements
+* Exception handling
+* Arithmetic operations
+
+**Run the project:**
+
+```bash
+python Calculator.py
+```
 
 ## Author
 
