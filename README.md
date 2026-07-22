@@ -116,6 +116,31 @@ A command-line calculator that performs basic arithmetic operations based on use
 python Calculator.py
 ```
 
+### 5. 📱QR Code Generator
+
+A simple Python application that generates a QR code from a user-provided URL and saves it as a PNG image.
+
+## Features
+- Generate QR codes from URLs
+- Save as `.png` automatically
+- Easy command-line interface
+
+## Requirements
+- Python 3.x
+- qrcode library
+
+## Installation
+
+```bash
+pip install qrcode[pil]
+```
+
+## Run
+
+```bash
+python main.py
+```
+
 ## Author
 
 **Abhinandan**
